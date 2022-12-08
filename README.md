@@ -1,4 +1,4 @@
-### Hi there 👋
+# Eventually most of this will be moved to a self hosted repo, I might mirror them though.
 
 <!--
 **tauin/tauin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
